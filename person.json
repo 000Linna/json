@@ -1,0 +1,13 @@
+{
+    "name":"Ivan",
+    "age":20,
+    "adress":{
+        "city":"Tyumen",
+        "street":"Kievskaya"
+    },
+    "numbers":[
+        "89596773456",
+        "89217745672"
+    ]
+           
+    }
